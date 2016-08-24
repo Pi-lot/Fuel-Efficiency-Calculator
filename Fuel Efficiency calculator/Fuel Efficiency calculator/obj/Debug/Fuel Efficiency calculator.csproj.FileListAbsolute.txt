@@ -1,0 +1,6 @@
+c:\users\bryce\documents\visual studio 2015\Projects\Fuel Efficiency calculator\Fuel Efficiency calculator\bin\Debug\Fuel Efficiency calculator.exe.config
+c:\users\bryce\documents\visual studio 2015\Projects\Fuel Efficiency calculator\Fuel Efficiency calculator\obj\Debug\Fuel Efficiency calculator.csprojResolveAssemblyReference.cache
+c:\users\bryce\documents\visual studio 2015\Projects\Fuel Efficiency calculator\Fuel Efficiency calculator\bin\Debug\Fuel Efficiency calculator.exe
+c:\users\bryce\documents\visual studio 2015\Projects\Fuel Efficiency calculator\Fuel Efficiency calculator\bin\Debug\Fuel Efficiency calculator.pdb
+c:\users\bryce\documents\visual studio 2015\Projects\Fuel Efficiency calculator\Fuel Efficiency calculator\obj\Debug\Fuel Efficiency calculator.exe
+c:\users\bryce\documents\visual studio 2015\Projects\Fuel Efficiency calculator\Fuel Efficiency calculator\obj\Debug\Fuel Efficiency calculator.pdb
